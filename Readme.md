@@ -10,13 +10,20 @@
 
 ## Keypoints
 
+- UI Builder
+- Cinemamachine
+- MRTK VR
+
+### Technical task
+
+
+
+
 ## Log
 
 > 11/02/22 05:34:31 AM
 
 First lesson goal is UI/UX for Tania
-
-
 
 Goals:
 
